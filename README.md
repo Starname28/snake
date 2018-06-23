@@ -1,2 +1,0 @@
-# snake
-easy game "snake"
